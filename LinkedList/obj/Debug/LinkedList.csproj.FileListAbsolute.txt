@@ -1,0 +1,6 @@
+c:\users\filipek\documents\visual studio 2013\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\filipek\Documents\Visual Studio 2013\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\filipek\Documents\Visual Studio 2013\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+c:\users\filipek\documents\visual studio 2013\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+c:\users\filipek\documents\visual studio 2013\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+c:\users\filipek\documents\visual studio 2013\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
